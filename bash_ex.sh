@@ -1,3 +1,24 @@
+####-------------------------------------------------------------------------------------------
+multi
+claude-af
+python parjax_cla.py \
+  --fasta_paths=/home/koohi/fereidoon/ParallelFold/input/mono_set1/8PBV.fasta \
+  --output_dir=/home/koohi/fereidoon/ParallelFold/claude_output/8PBV/AF \
+  --parameter_path=/home/koohi/fereidoon/ParallelFold/alldata/params \
+  --feature_file=/home/koohi/fereidoon/ParallelFold/output/8PBV/AF/feature.pkl \
+  --use_gpu_relax=tr
+
+
+
+
+
+
+
+
+
+
+####-------------------------------------------------------------------------------------------
+
 gpt-AF
 python parjax_gp.py \
   --fasta_paths=/home/koohi/fereidoon/ParallelFold/input/mono_set1/8PBV.fasta \
