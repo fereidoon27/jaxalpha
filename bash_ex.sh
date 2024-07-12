@@ -158,7 +158,7 @@ python parjax_cla_multi_gpu0.py \
 
 
 
-python parjax_cla_multi.py \
+python parjax_cla_multi_gpu0.py \
   --fasta_paths=/home/koohi/fereidoon/ParallelFold/multi/8EM5/8EM5.fasta,/home/koohi/fereidoon/ParallelFold/multi/8PBV/8PBV.fasta,/home/koohi/fereidoon/ParallelFold/multi/7ROA/7ROA.fasta,/home/koohi/fereidoon/ParallelFold/multi/7PZT/7PZT.fasta,/home/koohi/fereidoon/ParallelFold/multi/8D27/8D27.fasta  \
   --output_dir=/home/koohi/fereidoon/ParallelFold/multi/out_multi_Z_A/11_15 \
   --parameter_path=/home/koohi/fereidoon/ParallelFold/alldata/params \
