@@ -1,15 +1,29 @@
 ####-------------------------------------------------------------------------------------------
 multi
 claude-af
-python parjax_cla.py \
-  --fasta_paths=/home/koohi/fereidoon/ParallelFold/input/mono_set1/8PBV.fasta \
-  --output_dir=/home/koohi/fereidoon/ParallelFold/claude_output/8PBV/AF \
+python parjax_cla_multi.py \
+  --fasta_paths=/home/koohi/fereidoon/ParallelFold/multi/6UF2/6UF2.fasta,/home/koohi/fereidoon/ParallelFold/multi/2LHG/2LHG.fast,/home/koohi/fereidoon/ParallelFold/multi/2LHE/2LHE.fast,/home/koohi/fereidoon/ParallelFold/multi/2LHD/2LHD.fast,/home/koohi/fereidoon/ParallelFold/multi/2LHC/2LHC.fast  \
+  --output_dir=/home/koohi/fereidoon/ParallelFold/multi/out_multi/test \
   --parameter_path=/home/koohi/fereidoon/ParallelFold/alldata/params \
-  --feature_file=/home/koohi/fereidoon/ParallelFold/output/8PBV/AF/feature.pkl \
-  --use_gpu_relax=tr
+  --feature_files=/home/koohi/fereidoon/ParallelFold/multi/6UF2/feature.pkl,/home/koohi/fereidoon/ParallelFold/multi/2LHG/feature.pkl,/home/koohi/fereidoon/ParallelFold/multi/2LHE/2LHE.fast,/home/koohi/fereidoon/ParallelFold/multi/2LHD/2LHD.fast,/home/koohi/fereidoon/ParallelFold/multi/2LHC/2LHC.fast \
+  --use_gpu_relax=true
 
 
 
+python parjax_cla_multi.py \
+  --fasta_paths=/home/koohi/fereidoon/ParallelFold/multi/7PZT/7PZT.fasta,/home/koohi/fereidoon/ParallelFold/multi/7ROA/7ROA.fast,/home/koohi/fereidoon/ParallelFold/multi/8D27/8D27.fast,/home/koohi/fereidoon/ParallelFold/multi/8EM5/8EM5.fast,/home/koohi/fereidoon/ParallelFold/multi/8PBV/8PBV.fast  \
+  --output_dir=/home/koohi/fereidoon/ParallelFold/multi/out_multi/test \
+  --parameter_path=/home/koohi/fereidoon/ParallelFold/alldata/params \
+  --feature_files=/home/koohi/fereidoon/ParallelFold/multi/7PZT/feature.pkl,/home/koohi/fereidoon/ParallelFold/multi/7ROA/feature.pkl,/home/koohi/fereidoon/ParallelFold/multi/8D27/8D27.fast,/home/koohi/fereidoon/ParallelFold/multi/8EM5/8EM5.fast,/home/koohi/fereidoon/ParallelFold/multi/8PBV/8PBV.fast \
+  --use_gpu_relax=true
+
+
+python parjax_cla_multi.py \
+  --fasta_paths=/home/koohi/fereidoon/ParallelFold/multi/7JTL/7JTL.fasta,/home/koohi/fereidoon/ParallelFold/multi/7CWP/7CWP.fast,/home/koohi/fereidoon/ParallelFold/multi/7CN6/7CN6.fast,/home/koohi/fereidoon/ParallelFold/multi/6ZYC/6ZYC.fast,/home/koohi/fereidoon/ParallelFold/multi/6Y4F/6Y4F.fast  \
+  --output_dir=/home/koohi/fereidoon/ParallelFold/multi/out_multi/11_15 \
+  --parameter_path=/home/koohi/fereidoon/ParallelFold/alldata/params \
+  --feature_files=/home/koohi/fereidoon/ParallelFold/multi/7JTL/feature.pkl,/home/koohi/fereidoon/ParallelFold/multi/7CWP/feature.pkl,/home/koohi/fereidoon/ParallelFold/multi/7CN6/7CN6.fast,/home/koohi/fereidoon/ParallelFold/multi/6ZYC/6ZYC.fast,/home/koohi/fereidoon/ParallelFold/multi/6Y4F/6Y4F.fast \
+  --use_gpu_relax=true
 
 
 
