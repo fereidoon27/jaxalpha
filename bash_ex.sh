@@ -54,6 +54,18 @@ python parjax_cla_multi_GoogleColab.py \
   --feature_files=/content/jaxalpha/multi/8D27/feature.pkl,/content/jaxalpha/multi/7PZT/feature.pkl,/content/jaxalpha/multi/7ROA/feature.pkl,/content/jaxalpha/multi/8PBV/feature.pkl,/content/jaxalpha/multi/8EM5/feature.pkl \
   --use_gpu_relax=true
 
+
+####-------------------------------------------------------------------------------------------
+multi_same GoogleColab 
+claude-af
+
+python parjax_cla_multi_GoogleColab.py \
+  --fasta_paths=/content/jaxalpha/multi/2LHG/2LHG.fasta,/content/jaxalpha/multi/2LHE/2LHE.fasta,/content/jaxalpha/multi/2LHD/2LHD.fasta,/content/jaxalpha/multi/2LHC/2LHC.fasta  \
+  --output_dir=/content/jaxalpha/multi/out_multi_same \
+  --parameter_path=/content/ParallelFold/params \
+  --feature_files=/content/jaxalpha/multi/2LHG/feature.pkl,/content/jaxalpha/multi/2LHE/feature.pkl,/content/jaxalpha/multi/2LHD/feature.pkl,/content/jaxalpha/multi/2LHC/feature.pkl \
+  --use_gpu_relax=true
+
 ####-------------------------------------------------------------------------------------------
 multi_A_Z
 claude-af
