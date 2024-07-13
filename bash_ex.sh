@@ -48,10 +48,10 @@ python parjax_cla_multi_GoogleColab.py \
 
 
 python parjax_cla_multi_GoogleColab.py \
-  --fasta_paths=/content/jaxalpha/multi/8EM5/8EM5.fasta,/content/jaxalpha/multi/8PBV/8PBV.fasta,/content/jaxalpha/multi/7ROA/7ROA.fasta,/content/jaxalpha/multi/7PZT/7PZT.fasta,/content/jaxalpha/multi/8D27/8D27.fasta  \
+  --fasta_paths=/content/jaxalpha/multi/8D27/8D27.fasta,/content/jaxalpha/multi/7PZT/7PZT.fasta,/content/jaxalpha/multi/7ROA/7ROA.fasta,/content/jaxalpha/multi/8PBV/8PBV.fasta,/content/jaxalpha/multi/8EM5/8EM5.fasta  \
   --output_dir=/content/jaxalpha/multi/out_multi_Z_A/11_15 \
   --parameter_path=/content/ParallelFold/params \
-  --feature_files=/content/jaxalpha/multi/8EM5/feature.pkl,/content/jaxalpha/multi/8PBV/feature.pkl,/content/jaxalpha/multi/7ROA/feature.pkl,/content/jaxalpha/multi/7PZT/feature.pkl,/content/jaxalpha/multi/8D27/feature.pkl \
+  --feature_files=/content/jaxalpha/multi/8D27/feature.pkl,/content/jaxalpha/multi/7PZT/feature.pkl,/content/jaxalpha/multi/7ROA/feature.pkl,/content/jaxalpha/multi/8PBV/feature.pkl,/content/jaxalpha/multi/8EM5/feature.pkl \
   --use_gpu_relax=true
 
 ####-------------------------------------------------------------------------------------------
