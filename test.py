@@ -139,12 +139,12 @@
 ###------------------------------------------------------------------------------------
 ### Apped prefix to each element in list
 
-target = ['6UF2', '7CN6', '7CWP', '7JTL', '7PZT', '7ROA', '8EM5', '8PBV']
-ren =[]
-for i in target:
-    ren.append("pdb_compare_final_"+ i)
+# target = ['6UF2', '7CN6', '7CWP', '7JTL', '7PZT', '7ROA', '8EM5', '8PBV']
+# ren =[]
+# for i in target:
+#     ren.append("pdb_compare_final_"+ i)
 
-print(ren)
+# print(ren)
 
 ###------------------------------------------------------------------------------------
 ### Copy .pkl files for each PDB ID from Source to destination
@@ -183,5 +183,61 @@ print(ren)
 # print("Files copied successfully!")
 
 ###------------------------------------------------------------------------------------
-### make dir
+### make folder name
 
+target_1_5 = ['2LHC', '2LHD', '2LHE', '2LHG','6UF2']
+target_6_10 = ['6Y4F', '6ZYC', '7JTL', '7CWP', '7CN6']
+target_11_15 = ['7PZT', '7ROA', '8EM5', '8PBV', '8D27']
+
+raw_folder_name =[]
+batch = ['1_5', '6_10', '11_15']
+gpu = ['123', 'A100']
+order = ['ascend', 'descend']
+
+# for x in batch:
+#     for i in order:
+#         for j in gpu:
+#             raw_folder_name.append(f"{x}_{i}_{j}")
+
+
+for i in order:
+    for j in gpu:
+        raw_folder_name.append(f"{i}_{j}")
+
+#print (raw_folder_name)
+
+folder_name = []
+for i in target_1_5:
+    for j in raw_folder_name[0:4]:
+        folder_name.append(f"{i}_{j}")
+
+for i in target_6_10:
+    for j in raw_folder_name[0:4]:
+        folder_name.append(f"{i}_{j}")
+
+for i in target_11_15:
+    for j in raw_folder_name[0:4]:
+        folder_name.append(f"{i}_{j}")
+
+# print (folder_name)
+# print (len(folder_name))
+
+###------------------------------------------------------------------------------------
+### make dir for element in lists
+import os
+
+# Define the base path
+base_path = "E:\\timing_multi"
+
+# Iterate through each element in the list
+for element in folder_name:
+  # Construct the full folder path
+  folder_path = os.path.join(base_path, element)
+  
+  # Check if the folder already exists
+  if not os.path.exists(folder_path):
+    # Create the folder if it doesn't exist
+    os.makedirs(folder_path)
+    print(f"Folder created: {folder_path}")
+  else:
+    print(f"Folder already exists: {folder_path}")
