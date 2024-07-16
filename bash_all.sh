@@ -69,3 +69,7 @@ python parjax_cla_multi_gpu0.py \
   --feature_files=/home/koohi/fereidoon/ParallelFold/multi/7CN6/feature.pkl,/home/koohi/fereidoon/ParallelFold/multi/2LHG/feature.pkl,/home/koohi/fereidoon/ParallelFold/multi/8EM5/feature.pkl,/home/koohi/fereidoon/ParallelFold/multi/2LHD/feature.pkl,/home/koohi/fereidoon/ParallelFold/multi/2LHC/feature.pkl \
   --use_gpu_relax=true \
   --benchmark=true
+
+
+
+E:\current\sharif\tez\!presentation\journals\PSP\2022-ParaFold\modifed_jax\codes\make_feature_codes
