@@ -185,63 +185,81 @@
 ###------------------------------------------------------------------------------------
 ### make folder name
 
-target_1_5 = ['2LHC', '2LHD', '2LHE', '2LHG','6UF2']
-target_6_10 = ['6Y4F', '6ZYC', '7JTL', '7CWP', '7CN6']
-target_11_15 = ['7PZT', '7ROA', '8EM5', '8PBV', '8D27']
+# target_1_5 = ['2LHC', '2LHD', '2LHE', '2LHG','6UF2']
+# target_6_10 = ['6Y4F', '6ZYC', '7JTL', '7CWP', '7CN6']
+# target_11_15 = ['7PZT', '7ROA', '8EM5', '8PBV', '8D27']
 
-raw_folder_name =[]
-batch = ['1_5', '6_10', '11_15']
-gpu = ['123', 'A100']
-order = ['ascend', 'descend']
+# raw_folder_name =[]
+# batch = ['1_5', '6_10', '11_15']
+# gpu = ['123', 'A100']
+# order = ['ascend', 'descend']
 
-# for x in batch:
-#     for i in order:
-#         for j in gpu:
-#             raw_folder_name.append(f"{x}_{i}_{j}")
+# # for x in batch:
+# #     for i in order:
+# #         for j in gpu:
+# #             raw_folder_name.append(f"{x}_{i}_{j}")
 
 
-for i in order:
-    for j in gpu:
-        raw_folder_name.append(f"{i}_{j}")
+# for i in order:
+#     for j in gpu:
+#         raw_folder_name.append(f"{i}_{j}")
 
-#print (raw_folder_name)
+# #print (raw_folder_name)
 
-folder_name = []
-for i in target_1_5:
-    for j in raw_folder_name[0:4]:
-        folder_name.append(f"{i}_{j}")
+# folder_name = []
+# for i in target_1_5:
+#     for j in raw_folder_name[0:4]:
+#         folder_name.append(f"{i}_{j}")
 
-for i in target_6_10:
-    for j in raw_folder_name[0:4]:
-        folder_name.append(f"{i}_{j}")
+# for i in target_6_10:
+#     for j in raw_folder_name[0:4]:
+#         folder_name.append(f"{i}_{j}")
 
-for i in target_11_15:
-    for j in raw_folder_name[0:4]:
-        folder_name.append(f"{i}_{j}")
+# for i in target_11_15:
+#     for j in raw_folder_name[0:4]:
+#         folder_name.append(f"{i}_{j}")
 
-# print (folder_name)
-# print (len(folder_name))
+# # print (folder_name)
+# # print (len(folder_name))
 
 ###------------------------------------------------------------------------------------
-### make dir for element in lists
+# ### make dir for element in lists
+# import os
+
+# # Define the base path
+# base_path = "E:\\timing_multi"
+
+# # Iterate through each element in the list
+# for element in folder_name:
+#   # Construct the full folder path
+#   folder_path = os.path.join(base_path, element)
+  
+#   # Check if the folder already exists
+#   if not os.path.exists(folder_path):
+#     # Create the folder if it doesn't exist
+#     os.makedirs(folder_path)
+#     print(f"Folder created: {folder_path}")
+#   else:
+#     print(f"Folder already exists: {folder_path}")
+
+
+###------------------------------------------------------------------------------------
+# ### rename
+
 import os
 
-# Define the base path
-base_path = "E:\\timing_multi"
+def rename_timings_files(base_dir):
+    for root, dirs, files in os.walk(base_dir):
+        for file in files:
+            if file == 'timings.json':
+                parent_folder = os.path.basename(root)
+                new_filename = f"{parent_folder}_timings.json"
+                old_file_path = os.path.join(root, file)
+                new_file_path = os.path.join(root, new_filename)
+                
+                os.rename(old_file_path, new_file_path)
+                print(f"Renamed '{old_file_path}' to '{new_file_path}'")
 
-# Iterate through each element in the list
-for element in folder_name:
-  # Construct the full folder path
-  folder_path = os.path.join(base_path, element)
-  
-  # Check if the folder already exists
-  if not os.path.exists(folder_path):
-    # Create the folder if it doesn't exist
-    os.makedirs(folder_path)
-    print(f"Folder created: {folder_path}")
-  else:
-    print(f"Folder already exists: {folder_path}")
+base_directory = r"E:\descend_123_benchmark_all_gpu0"
+rename_timings_files(base_directory)
 
-
-
-  
