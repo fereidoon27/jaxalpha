@@ -77,3 +77,58 @@ python parjax_cla_multi_GoogleColab.py \
 ####-------------------------------------------------------------------------------------------
 
 
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+
+
+#@title drive_and_input
+
+from google.colab import drive
+# Mount Google Drive
+drive.mount('/content/drive')
+
+from google.colab import auth
+auth.authenticate_user()
+
+
+
+
+
+
+#@title Initialize_time
+
+import time
+# Initialize an empty file
+with open('/content/time_cell_JP_alphafold.txt', 'w') as file:
+    file.write('')
+
+
+def log_execution_time(start_time, cell_title):
+    end_time = time.time()
+    execution_time = end_time - start_time
+
+    with open('/content/time_cell_JP_alphafold.txt', 'a') as file:
+        file.write(f"execution_time_{cell_title}, {execution_time}\n")
+
+from_beginning_to_end = "from_start_running_the_code_to_end"
+code_start_time = time.time()
+
+
+
+
+
+
+
+
+#@title gitpython_git_Clone
+%%capture
+cell_title = "gitpython_git_Clone"
+start_time = time.time()
+
+!pip install gitpython
+!pip install requests gitpython
+!apt-get install git
+# Clone the repository
+!git clone https://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@github.com/fereidoon27/jaxalpha.git
+
+
+log_execution_time(start_time, cell_title)
