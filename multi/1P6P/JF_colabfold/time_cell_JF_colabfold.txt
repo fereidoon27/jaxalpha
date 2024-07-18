@@ -8,5 +8,3 @@ execution_time_upload_time_cell_to_github, 2.1260461807250977
 execution_time_upload_fasta_to_github, 2.364208221435547
 execution_time_zip_output, 8.705327987670898
 execution_time_from_start_running_the_code_to_end, 311.72970628738403
-execution_time_upload_fasta_to_github, 2.792691469192505
-execution_time_upload_time_cell_to_github, 1.4945933818817139
