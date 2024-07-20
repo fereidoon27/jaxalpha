@@ -1,0 +1,2 @@
+execution_time_6AZ5_single_JAXalpha, 1141.2199659347534
+execution_time_Start_running_the_code, 1141.331874370575
