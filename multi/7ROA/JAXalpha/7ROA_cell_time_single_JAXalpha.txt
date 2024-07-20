@@ -1,0 +1,2 @@
+execution_time_7ROA_single_JAXalpha, 1171.3945498466492
+execution_time_Start_running_the_code, 1172.0375163555145
