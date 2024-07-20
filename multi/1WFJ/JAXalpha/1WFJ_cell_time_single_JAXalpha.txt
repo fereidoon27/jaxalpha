@@ -1,0 +1,2 @@
+execution_time_1WFJ_single_JAXalpha, 1200.711805820465
+execution_time_Start_running_the_code, 1201.410459280014
