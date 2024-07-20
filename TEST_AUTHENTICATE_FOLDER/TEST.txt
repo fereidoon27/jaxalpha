@@ -1,5 +1,0 @@
-execution_time_Install third-party software, 122.34613490104675
-execution_time_Download AlphaFold, 292.3333251476288
-execution_time_Enter the amino acid sequence(s) to fold, 0.04594159126281738
-execution_time_Search against genetic databases, 2094.811021566391
-execution_time_Run AlphaFold and download prediction, 729.7938573360443
