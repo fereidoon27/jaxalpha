@@ -1,0 +1,2 @@
+execution_time_1ACF_single_JAXalpha, 1220.8057124614716
+execution_time_Start_running_the_code, 1221.3534808158875

@@ -1,0 +1,2 @@
+execution_time_6Z29_single_JAXalpha, 1132.9847474098206
+execution_time_Start_running_the_code, 1133.659716129303

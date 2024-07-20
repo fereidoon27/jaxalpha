@@ -1,0 +1,2 @@
+execution_time_8PBV_single_JAXalpha, 1129.8988959789276
+execution_time_Start_running_the_code, 1133.7781910896301
