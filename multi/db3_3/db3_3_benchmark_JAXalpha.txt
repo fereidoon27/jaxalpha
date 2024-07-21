@@ -1,0 +1,3 @@
+execution_time_sort_by_sequence_lenght, 0.003387928009033203
+execution_time_db3_3_benchmark_JAXalpha, 2051.881485939026
+execution_time_Start_running_the_code, 2076.7608165740967
