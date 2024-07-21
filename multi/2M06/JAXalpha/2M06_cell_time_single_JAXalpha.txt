@@ -1,0 +1,2 @@
+execution_time_2M06_single_JAXalpha, 1252.4533610343933
+execution_time_Start_running_the_code, 1253.0377197265625
