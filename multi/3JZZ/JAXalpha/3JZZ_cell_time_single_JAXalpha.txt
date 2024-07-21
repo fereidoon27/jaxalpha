@@ -1,0 +1,2 @@
+execution_time_3JZZ_single_JAXalpha, 1232.779759645462
+execution_time_Start_running_the_code, 1233.3604054450989
