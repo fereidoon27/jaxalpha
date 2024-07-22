@@ -1,0 +1,14 @@
+execution_time_clone, 88.0194480419159
+execution_time_sort_by_sequence_lenght, 0.0034475326538085938
+execution_time_Miniconda, 26.73529815673828
+execution_time_parafold_env, 7.629561901092529
+execution_time_testing_activate_parafold, 0.20906591415405273
+execution_time_install_py3dmol, 1.2096693515777588
+execution_time_install_openmm, 146.7888059616089
+execution_time_install_requirements, 62.45312571525574
+execution_time_install_cuda_and_cudnn, 49.633583784103394
+execution_time_downgrade_jaxlib, 21.293542861938477
+execution_time_aria2, 28.650792360305786
+execution_time_alphafold_params, 295.867534160614
+execution_time_db3_2_benchmark_JAXalpha_with_ColabFold_feature, 2087.7177600860596
+execution_time_Start_running_the_code, 2816.44015789032
