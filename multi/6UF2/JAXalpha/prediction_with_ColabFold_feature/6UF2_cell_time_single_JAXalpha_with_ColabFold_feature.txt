@@ -1,0 +1,11 @@
+execution_time_clone, 57.65877079963684
+execution_time_Miniconda, 29.02604365348816
+execution_time_parafold_env, 7.532469034194946
+execution_time_install_openmm, 147.26301383972168
+execution_time_install_requirements, 52.608789920806885
+execution_time_install_cuda_and_cudnn, 56.97653603553772
+execution_time_downgrade_jaxlib, 11.764521360397339
+execution_time_aria2, 27.814875841140747
+execution_time_alphafold_params, 123.51374053955078
+execution_time_6UF2_single_JAXalpha_with_ColabFold_feature, 1224.3338918685913
+execution_time_Start_running_the_code, 1739.8330793380737
