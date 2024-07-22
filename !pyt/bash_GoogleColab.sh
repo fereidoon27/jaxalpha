@@ -136,16 +136,5 @@ log_execution_time(start_time, cell_title)
 
 
 
-#address in bash
-
-#@title set the environment variables
-%%capture
-# set the environment variables and then access them in the %%bash cell.
-import os
-os.environ['SORTED_FASTA_PATH'] = sorted_fasta_path
-os.environ['SORTED_FEATURE_PATH'] = sorted_feature_path
-
-
-
-
-
+'/content/jaxalpha/multi/1ACF/JAXalpha/ranked_0_6UF2_JAXalpha.pdb'
+/content/jaxalpha/multi/1ACF/JAXalpha/ranked_0_{pdb_id}_JAXalpha.pdb

@@ -1,6 +1,0 @@
-execution_time_import_lib, 0.0011360645294189453
-execution_time_Install dependencies, 70.26153540611267
-execution_time_fetch_pdb_sequence, 0.22667765617370605
-execution_time_Run Feature Extraction, 70.05606412887573
-execution_time_gitpython_git_Clone, 62.4716854095459
-execution_time_upload_feature_to_github, 2.730276584625244
