@@ -209,3 +209,3921 @@ Output of run_cell:
 Output of run_cell:
 
 
+Output of run_cell:
+/content/jaxalpha
+From https://github.com/fereidoon27/jaxalpha
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+[main 8b1a2b9] 6UF2_aligned_compare.txt to 6UF2 jaxalpha folder
+ 1 file changed, 211 insertions(+)
+ create mode 100644 multi/6UF2/JAXalpha/6UF2_aligned_compare.txt
+Enumerating objects: 10, done.
+Counting objects:  10% (1/10)Counting objects:  20% (2/10)Counting objects:  30% (3/10)Counting objects:  40% (4/10)Counting objects:  50% (5/10)Counting objects:  60% (6/10)Counting objects:  70% (7/10)Counting objects:  80% (8/10)Counting objects:  90% (9/10)Counting objects: 100% (10/10)Counting objects: 100% (10/10), done.
+Delta compression using up to 2 threads
+Compressing objects:  16% (1/6)Compressing objects:  33% (2/6)Compressing objects:  50% (3/6)Compressing objects:  66% (4/6)Compressing objects:  83% (5/6)Compressing objects: 100% (6/6)Compressing objects: 100% (6/6), done.
+Writing objects:  16% (1/6)Writing objects:  33% (2/6)Writing objects:  50% (3/6)Writing objects:  66% (4/6)Writing objects:  83% (5/6)Writing objects: 100% (6/6)Writing objects: 100% (6/6), 1.23 KiB | 1.23 MiB/s, done.
+Total 6 (delta 4), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/4)[Kremote: Resolving deltas:  25% (1/4)[Kremote: Resolving deltas:  50% (2/4)[Kremote: Resolving deltas:  75% (3/4)[Kremote: Resolving deltas: 100% (4/4)[Kremote: Resolving deltas: 100% (4/4), completed with 4 local objects.[K
+To https://github.com/fereidoon27/jaxalpha.git
+   db79be2..8b1a2b9  main -> main
+
+
+Output of run_cell:
+
+
+Output of run_cell:
+
+
+Output of run_cell:
+
+
+Output of run_cell:
+
+
+Output of run_cell:
+
+
+Output of wrapper:
+
+
+
+Output of wrapper:
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+
+
+Output of wrapper:
+
+
+
+Output of wrapper:
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+
+
+Output of wrapper:
+
+
+
+Output of wrapper:
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+Output of wrapper:
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+Output of wrapper:
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+
+Output of wrapper:
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+
+
+Output of wrapper:
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+
+
+
+Output of wrapper:
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+
+
+
+
+Output of wrapper:
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+
+
+
+
+
+Output of wrapper:
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+RMSD between query and correct structure: 0.20 Å
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+Simplified TM-score: 0.9977
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+Average difference in distance matrices: 0.11 Å
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+
+
+Output of wrapper:
+
+
+
+Output of wrapper:
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+RMSD between query and correct structure: 0.22 Å
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+Simplified TM-score: 0.9974
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+Secondary structure similarity: 91.20%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+Output of wrapper:
+Secondary structure similarity: 91.20%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+Output of wrapper:
+Secondary structure similarity: 91.20%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 91.20%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 91.20%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 91.20%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 91.20%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 91.20%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 91.20%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 91.20%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 91.20%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 91.20%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 91.20%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 91.20%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 91.20%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 91.20%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 91.20%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+Average difference in distance matrices: 0.09 Å
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.09 Å
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.09 Å
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.09 Å
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.09 Å
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.09 Å
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.09 Å
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.09 Å
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.09 Å
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.09 Å
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.09 Å
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.09 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.09 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.09 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.09 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.09 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.09 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+
+
+Output of wrapper:
+
+
+
+Output of wrapper:
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+updating: 6UF2_aligned_compare.txt (deflated 93%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 93%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 93%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 93%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 93%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 93%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 93%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 93%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 93%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 93%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 93%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 93%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 93%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 93%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 93%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 93%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 93%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+
+
+Output of wrapper:
+
+
+
+Output of wrapper:
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+
+
+Output of wrapper:
+
+
+
+Output of wrapper:
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
