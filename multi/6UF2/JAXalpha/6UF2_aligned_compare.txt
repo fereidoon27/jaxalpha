@@ -1,4 +1,3 @@
-
 Output of run_cell:
 
 
@@ -249,1727 +248,7 @@ Output of wrapper:
 
 
 
-Output of run_cell:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-Output of wrapper:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-
-Output of wrapper:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-
-
-Output of wrapper:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-
-
-
-Output of wrapper:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-
-
-
-
-Output of wrapper:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-
-
-
-
-
-Output of wrapper:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-
-
-
-
-
-
-Output of wrapper:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of run_cell:
-RMSD between query and correct structure: 0.20 Å
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.20 Å
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.20 Å
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.20 Å
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.20 Å
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.20 Å
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.20 Å
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.20 Å
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.20 Å
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.20 Å
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.20 Å
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.20 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.20 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.20 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.20 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.20 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.20 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.20 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.20 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.20 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.20 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of run_cell:
-Simplified TM-score: 0.9977
-
-
-Output of wrapper:
-Simplified TM-score: 0.9977
-
-
-
-Output of wrapper:
-Simplified TM-score: 0.9977
-
-
-
-
-Output of wrapper:
-Simplified TM-score: 0.9977
-
-
-
-
-
-Output of wrapper:
-Simplified TM-score: 0.9977
-
-
-
-
-
-
-Output of wrapper:
-Simplified TM-score: 0.9977
-
-
-
-
-
-
-
-Output of wrapper:
-Simplified TM-score: 0.9977
-
-
-
-
-
-
-
-
-Output of wrapper:
-Simplified TM-score: 0.9977
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Simplified TM-score: 0.9977
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Simplified TM-score: 0.9977
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Simplified TM-score: 0.9977
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Simplified TM-score: 0.9977
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Simplified TM-score: 0.9977
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Simplified TM-score: 0.9977
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Simplified TM-score: 0.9977
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Simplified TM-score: 0.9977
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Simplified TM-score: 0.9977
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Simplified TM-score: 0.9977
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Simplified TM-score: 0.9977
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Simplified TM-score: 0.9977
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Simplified TM-score: 0.9977
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of run_cell:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-Output of wrapper:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-
-Output of wrapper:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-
-
-Output of wrapper:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-
-
-
-Output of wrapper:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-
-
-
-
-Output of wrapper:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-
-
-
-
-
-Output of wrapper:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-
-
-
-
-
-
-Output of wrapper:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-GDT-TS score: 99.80
-The predicted structure is likely to have the correct fold.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of run_cell:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-Output of wrapper:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-
-Output of wrapper:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-
-
-Output of wrapper:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-
-
-
-Output of wrapper:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-
-
-
-
-Output of wrapper:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-
-
-
-
-
-Output of wrapper:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-
-
-
-
-
-
-Output of wrapper:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Secondary structure similarity: 88.80%
-Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of run_cell:
-Average difference in distance matrices: 0.11 Å
-
-
-Output of wrapper:
-Average difference in distance matrices: 0.11 Å
-
-
-
-Output of wrapper:
-Average difference in distance matrices: 0.11 Å
-
-
-
-
-Output of wrapper:
-Average difference in distance matrices: 0.11 Å
-
-
-
-
-
-Output of wrapper:
-Average difference in distance matrices: 0.11 Å
-
-
-
-
-
-
-Output of wrapper:
-Average difference in distance matrices: 0.11 Å
-
-
-
-
-
-
-
-Output of wrapper:
-Average difference in distance matrices: 0.11 Å
-
-
-
-
-
-
-
-
-Output of wrapper:
-Average difference in distance matrices: 0.11 Å
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Average difference in distance matrices: 0.11 Å
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Average difference in distance matrices: 0.11 Å
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Average difference in distance matrices: 0.11 Å
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Average difference in distance matrices: 0.11 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Average difference in distance matrices: 0.11 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Average difference in distance matrices: 0.11 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Average difference in distance matrices: 0.11 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Average difference in distance matrices: 0.11 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-Average difference in distance matrices: 0.11 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Output of wrapper:
-Average difference in distance matrices: 0.11 Å
-
-
-
 
 
 
@@ -1986,15 +265,6 @@ Average difference in distance matrices: 0.11 Å
 
 
 
-Output of wrapper:
-Average difference in distance matrices: 0.11 Å
-
-
-
-
-
-
-
 
 
 
@@ -2008,11 +278,6 @@ Average difference in distance matrices: 0.11 Å
 
 
 
-Output of wrapper:
-Average difference in distance matrices: 0.11 Å
-
-
-
 
 
 
@@ -2027,12 +292,6 @@ Average difference in distance matrices: 0.11 Å
 
 
 
-
-
-
-
-Output of wrapper:
-Average difference in distance matrices: 0.11 Å
 
 
 
@@ -2328,278 +587,27 @@ Output of wrapper:
 
 
 
-Output of run_cell:
-RMSD between query and correct structure: 0.22 Å
 
 
-Output of wrapper:
-RMSD between query and correct structure: 0.22 Å
 
 
 
-Output of wrapper:
-RMSD between query and correct structure: 0.22 Å
 
 
 
 
-Output of wrapper:
-RMSD between query and correct structure: 0.22 Å
 
 
 
 
 
-Output of wrapper:
-RMSD between query and correct structure: 0.22 Å
 
 
 
 
 
 
-Output of wrapper:
-RMSD between query and correct structure: 0.22 Å
 
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.22 Å
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.22 Å
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.22 Å
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.22 Å
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.22 Å
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.22 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.22 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.22 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.22 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.22 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.22 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.22 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.22 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.22 Å
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-RMSD between query and correct structure: 0.22 Å
 
 
 
@@ -2623,38 +631,29 @@ RMSD between query and correct structure: 0.22 Å
 
 
 Output of run_cell:
-Simplified TM-score: 0.9974
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
 
 
 Output of wrapper:
-Simplified TM-score: 0.9974
-
-
-
-Output of wrapper:
-Simplified TM-score: 0.9974
-
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
 
 
 
 Output of wrapper:
-Simplified TM-score: 0.9974
-
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
 
 
 
 
 Output of wrapper:
-Simplified TM-score: 0.9974
-
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
 
 
 
 
 
 Output of wrapper:
-Simplified TM-score: 0.9974
-
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
 
 
 
@@ -2662,8 +661,7 @@ Simplified TM-score: 0.9974
 
 
 Output of wrapper:
-Simplified TM-score: 0.9974
-
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
 
 
 
@@ -2672,8 +670,7 @@ Simplified TM-score: 0.9974
 
 
 Output of wrapper:
-Simplified TM-score: 0.9974
-
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
 
 
 
@@ -2683,8 +680,7 @@ Simplified TM-score: 0.9974
 
 
 Output of wrapper:
-Simplified TM-score: 0.9974
-
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
 
 
 
@@ -2695,8 +691,7 @@ Simplified TM-score: 0.9974
 
 
 Output of wrapper:
-Simplified TM-score: 0.9974
-
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
 
 
 
@@ -2708,8 +703,7 @@ Simplified TM-score: 0.9974
 
 
 Output of wrapper:
-Simplified TM-score: 0.9974
-
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
 
 
 
@@ -2722,8 +716,7 @@ Simplified TM-score: 0.9974
 
 
 Output of wrapper:
-Simplified TM-score: 0.9974
-
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
 
 
 
@@ -2737,8 +730,7 @@ Simplified TM-score: 0.9974
 
 
 Output of wrapper:
-Simplified TM-score: 0.9974
-
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
 
 
 
@@ -2753,8 +745,7 @@ Simplified TM-score: 0.9974
 
 
 Output of wrapper:
-Simplified TM-score: 0.9974
-
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
 
 
 
@@ -2770,8 +761,7 @@ Simplified TM-score: 0.9974
 
 
 Output of wrapper:
-Simplified TM-score: 0.9974
-
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
 
 
 
@@ -2788,8 +778,7 @@ Simplified TM-score: 0.9974
 
 
 Output of wrapper:
-Simplified TM-score: 0.9974
-
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
 
 
 
@@ -2807,8 +796,7 @@ Simplified TM-score: 0.9974
 
 
 Output of wrapper:
-Simplified TM-score: 0.9974
-
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
 
 
 
@@ -2827,8 +815,7 @@ Simplified TM-score: 0.9974
 
 
 Output of wrapper:
-Simplified TM-score: 0.9974
-
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
 
 
 
@@ -2848,8 +835,7 @@ Simplified TM-score: 0.9974
 
 
 Output of wrapper:
-Simplified TM-score: 0.9974
-
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
 
 
 
@@ -2870,8 +856,7 @@ Simplified TM-score: 0.9974
 
 
 Output of wrapper:
-Simplified TM-score: 0.9974
-
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
 
 
 
@@ -2893,7 +878,830 @@ Simplified TM-score: 0.9974
 
 
 Output of wrapper:
-Simplified TM-score: 0.9974
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+RMSD between query and correct structure: 0.20 Å
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+RMSD between query and correct structure: 0.20 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+Simplified TM-score: 0.9977
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+Simplified TM-score: 0.9977
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+Simplified TM-score: 0.9977
 
 
 
@@ -3231,6 +2039,2301 @@ The predicted structure is likely to have the correct fold.
 
 
 
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+Secondary structure similarity: 88.80%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+Average difference in distance matrices: 0.11 Å
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+Average difference in distance matrices: 0.11 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+
+
+Output of wrapper:
+
+
+
+Output of wrapper:
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+RMSD between query and correct structure: 0.22 Å
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+RMSD between query and correct structure: 0.22 Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+Simplified TM-score: 0.9974
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+Simplified TM-score: 0.9974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+GDT-TS score: 99.80
+The predicted structure is likely to have the correct fold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Output of run_cell:
 Secondary structure similarity: 91.20%
 Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
@@ -3546,6 +4649,81 @@ Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
 
 
 
+Secondary structure similarity: 91.20%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+Secondary structure similarity: 91.20%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+Secondary structure similarity: 91.20%
+Secondary structure strings saved to 'query_ss.txt' and 'correct_ss.txt'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Output of run_cell:
 Average difference in distance matrices: 0.09 Å
 
@@ -3840,40 +5018,37 @@ Average difference in distance matrices: 0.09 Å
 
 
 
-Output of run_cell:
+Average difference in distance matrices: 0.09 Å
 
 
-Output of wrapper:
 
 
 
-Output of wrapper:
 
 
 
 
-Output of wrapper:
 
 
 
 
 
-Output of wrapper:
 
 
 
 
 
 
-Output of wrapper:
 
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+Average difference in distance matrices: 0.09 Å
 
 
 
 
 
 
-Output of wrapper:
 
 
 
@@ -3882,7 +5057,6 @@ Output of wrapper:
 
 
 
-Output of wrapper:
 
 
 
@@ -3891,647 +5065,9 @@ Output of wrapper:
 
 
 
-
-Output of wrapper:
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of run_cell:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
-
-
-Output of wrapper:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
-
-
-
-Output of wrapper:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
-
-
-
-
-Output of wrapper:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
-
-
-
-
-
-Output of wrapper:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
-
-
-
-
-
-
-Output of wrapper:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
-
-
-
-
-
-
-
-Output of wrapper:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
-
-
-
-
-
-
-
-
-Output of wrapper:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output of wrapper:
-updating: 6UF2_aligned_compare.txt (deflated 96%)
-updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
-updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
-updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
-updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
-updating: distance_matrices_difference_ranked_0.png (deflated 6%)
-updating: distance_matrices_difference_ranked_1.png (deflated 6%)
-updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+Average difference in distance matrices: 0.09 Å
 
 
 
@@ -4827,6 +5363,605 @@ Output of wrapper:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/local/lib/python3.10/dist-packages/Bio/PDB/PDBParser.py:384: PDBConstructionWarning: Ignoring unrecognized record 'END' at line 1016
+  warnings.warn(
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+updating: 6UF2_aligned_compare.txt (deflated 96%)
+updating: secondary_structure_comparison_ranked_0.png (deflated 4%)
+updating: secondary_structure_comparison_ranked_1.png (deflated 4%)
+updating: distance_matrices_comparison_ranked_0.png (deflated 6%)
+updating: distance_matrices_comparison_ranked_1.png (deflated 6%)
+updating: distance_matrices_difference_ranked_0.png (deflated 6%)
+updating: distance_matrices_difference_ranked_1.png (deflated 6%)
+updating: Per_Residue_pLDDT_Scores.png (deflated 9%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Output of run_cell:
 
 
@@ -5078,6 +6213,409 @@ Output of wrapper:
 
 
 Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of run_cell:
+
+
+Output of wrapper:
+
+
+
+Output of wrapper:
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of wrapper:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
