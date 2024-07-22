@@ -1,0 +1,15 @@
+keys of the dictionary pickle :  dict_keys(['distogram', 'experimentally_resolved', 'masked_msa', 'predicted_lddt', 'structure_module', 'plddt', 'ranking_confidence'])
+aligned_PDB_compare_ranked_0
+RMSD between query and correct structure: 2.28 Å
+Simplified TM-score: 0.8726
+GDT-TS score: 80.57
+The predicted structure is likely to have the correct fold.
+Secondary structure similarity: 81.08%
+Average difference in distance matrices: 0.94 Å
+RMSD between query and correct structure: 2.51 Å
+Simplified TM-score: 0.8621
+GDT-TS score: 79.90
+The predicted structure is likely to have the correct fold.
+Secondary structure similarity: 86.49%
+Average difference in distance matrices: 1.09 Å
+/content/jaxalpha
