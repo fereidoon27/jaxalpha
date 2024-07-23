@@ -145,16 +145,6 @@ list_of_target = [
 ]
 
 
-i defined file paths bellow:
-```
-file_path_PDB_1_single = f'/content/jaxalpha/multi/{db_gr[gi][0]}/JAXalpha/timings_{db_gr[gi][0]}_JAXalpha.json'
-file_path_PDB_1_benchmark = f'/content/jaxalpha/multi/{group_name}/result/timings_{db_gr[gi][0]}_benchmark_JAXalpha.json'
-file_path_PDB_2_single = f'/content/jaxalpha/multi/{db_gr[gi][1]}/JAXalpha/timings_{db_gr[gi][1]}_JAXalpha.json'
-file_path_PDB_2_benchmark = f'/content/jaxalpha/multi/{group_name}/result/timings_{db_gr[gi][1]}_benchmark_JAXalpha.json'
-file_path_PDB_3_single = f'/content/jaxalpha/multi/{db_gr[gi][2]}/JAXalpha/timings_{db_gr[gi][2]}_JAXalpha.json'
-file_path_PDB_3_benchmark = f'/content/jaxalpha/multi/{group_name}/result/timings_{db_gr[gi][2]}_benchmark_JAXalpha.json'
-file_path_PDB_4_single = f'/content/jaxalpha/multi/{db_gr[gi][3]}/JAXalpha/timings_{db_gr[gi][3]}_JAXalpha.json'
-file_path_PDB_4_benchmark = f'/content/jaxalpha/multi/{group_name}/result/timings_{db_gr[gi][3]}_benchmark_JAXalpha.json'
-```
 
-so remember that and rewrite all codes based on this. 
+/content/jaxalpha/multi/db3_1/benchmark_JAXalpha_with_ColabFold_feature/timings_6UF2_benchmark_JAXalpha_with_ColabFold_feature.json
+/content/jaxalpha/multi/db3_1/benchmark_JAXalpha_with_ColabFold_feature/timings_6UF2_benchmark_JAXalpha.json
