@@ -136,5 +136,25 @@ log_execution_time(start_time, cell_title)
 
 
 
-'/content/jaxalpha/multi/1ACF/JAXalpha/ranked_0_6UF2_JAXalpha.pdb'
-/content/jaxalpha/multi/1ACF/JAXalpha/ranked_0_{pdb_id}_JAXalpha.pdb
+target = ['6UF2', '1P6P', '2AI6', '1ACF', '6AZ5', '6ESP', '6Z29', '8PBV', '4I65', '1WFJ', '7ROA', '2MR5', '6ZYC', '7BOL', '2M06', '3JZZ']
+list_of_target = [
+    ['6UF2', '1P6P', '2AI6', '1ACF'],
+    ['6AZ5', '6ESP', '6Z29', '8PBV'],
+    ['4I65', '1WFJ', '7ROA', '2MR5'],
+    ['6ZYC', '7BOL', '2M06', '3JZZ']
+]
+
+
+i defined file paths bellow:
+```
+file_path_PDB_1_single = f'/content/jaxalpha/multi/{db_gr[gi][0]}/JAXalpha/timings_{db_gr[gi][0]}_JAXalpha.json'
+file_path_PDB_1_benchmark = f'/content/jaxalpha/multi/{group_name}/result/timings_{db_gr[gi][0]}_benchmark_JAXalpha.json'
+file_path_PDB_2_single = f'/content/jaxalpha/multi/{db_gr[gi][1]}/JAXalpha/timings_{db_gr[gi][1]}_JAXalpha.json'
+file_path_PDB_2_benchmark = f'/content/jaxalpha/multi/{group_name}/result/timings_{db_gr[gi][1]}_benchmark_JAXalpha.json'
+file_path_PDB_3_single = f'/content/jaxalpha/multi/{db_gr[gi][2]}/JAXalpha/timings_{db_gr[gi][2]}_JAXalpha.json'
+file_path_PDB_3_benchmark = f'/content/jaxalpha/multi/{group_name}/result/timings_{db_gr[gi][2]}_benchmark_JAXalpha.json'
+file_path_PDB_4_single = f'/content/jaxalpha/multi/{db_gr[gi][3]}/JAXalpha/timings_{db_gr[gi][3]}_JAXalpha.json'
+file_path_PDB_4_benchmark = f'/content/jaxalpha/multi/{group_name}/result/timings_{db_gr[gi][3]}_benchmark_JAXalpha.json'
+```
+
+so remember that and rewrite all codes based on this. 
