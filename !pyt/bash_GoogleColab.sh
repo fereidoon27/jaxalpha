@@ -147,4 +147,9 @@ list_of_target = [
 
 
 /content/jaxalpha/multi/db3_1/benchmark_JAXalpha_with_ColabFold_feature/timings_6UF2_benchmark_JAXalpha_with_ColabFold_feature.json
+ranked_0_6AZ5_benchmark_JAXalpha_with_ColabFold_feature
 /content/jaxalpha/multi/db3_1/benchmark_JAXalpha_with_ColabFold_feature/timings_6UF2_benchmark_JAXalpha.json
+
+
+
+FileNotFoundError: [Errno 2] No such file or directory: '/content/jaxalpha/multi/db3_2/benchmark_JAXalpha_with_ColabFold_feature/timings_6AZ5_benchmark_JAXalpha.json'
