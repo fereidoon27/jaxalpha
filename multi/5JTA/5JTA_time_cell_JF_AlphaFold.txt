@@ -1,0 +1,6 @@
+execution_time_Set environment variables, 33.38820171356201
+execution_time_Download AlphaFold, 224.92153906822205
+execution_time_fetch_sequence_from_pdb, 0.5501272678375244
+execution_time_Search_against_genetic_databases_and_generate_features, 6970.115080118179
+execution_time_gitpython_git_Clone, 133.63476634025574
+execution_time_upload_feature_to_github, 6.463052034378052
