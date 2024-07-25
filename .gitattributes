@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 multi/5DZR/feature.pkl filter=lfs diff=lfs merge=lfs -text
+multi/5DZR/JF_colabfold/feature.pkl filter=lfs diff=lfs merge=lfs -text
