@@ -4,3 +4,8 @@ execution_time_fetch_pdb_sequence, 0.7041444778442383
 execution_time_Run Feature Extraction, 131.8347451686859
 execution_time_gitpython_git_Clone, 117.47220516204834
 execution_time_upload_feature_to_github, 8.183028221130371
+execution_time_upload_time_cell_to_github, 2.384371757507324
+execution_time_upload_fasta_to_github, 3.2501211166381836
+execution_time_zip_output, 13.919456005096436
+execution_time_from_start_running_the_code_to_end, 353.39410185813904
+execution_time_upload_feature_to_github, 2.542266607284546
