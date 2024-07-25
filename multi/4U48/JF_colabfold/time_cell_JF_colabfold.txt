@@ -7,3 +7,4 @@ execution_time_upload_time_cell_to_github, 1.02500581741333
 execution_time_upload_feature_to_github, 8.406668186187744
 execution_time_zip_output, 7.758626699447632
 execution_time_from_start_running_the_code_to_end, 539.6245591640472
+execution_time_upload_time_cell_to_github, 1.2224981784820557
