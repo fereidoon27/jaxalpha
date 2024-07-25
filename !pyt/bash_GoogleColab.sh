@@ -146,16 +146,7 @@ list_of_target = [
 
 
 
-/content/jaxalpha/multi/db3_1/benchmark_JAXalpha_with_ColabFold_feature/timings_6UF2_benchmark_JAXalpha_with_ColabFold_feature.json
-ranked_0_6AZ5_benchmark_JAXalpha_with_ColabFold_feature
-/content/jaxalpha/multi/db3_1/benchmark_JAXalpha_with_ColabFold_feature/timings_6UF2_benchmark_JAXalpha.json
+#%%capture
+!zip -r db3_aligned_PDB_compare_with_ColabFold_feature_ranked_0.zip /content/PLDDT /content/SS_similarity /content/batch_visualize_structures_simple /content/distance_matrices /content/db3_aligned_PDB_compare_with_ColabFold_feature.txt
 
-
-
-FileNotFoundError: [Errno 2] No such file or directory: '/content/jaxalpha/multi/db3_2/benchmark_JAXalpha_with_ColabFold_feature/timings_6AZ5_benchmark_JAXalpha.json'
-
-
-query_1_path = f"/content/jaxalpha/multi/{group_name[db_gr]}/benchmark_JAXalpha_with_ColabFold_feature/ranked_0_{pdb_id}_benchmark_JAXalpha_with_ColabFold_feature.pdb"
-query_2_path = f"/content/jaxalpha/multi/{group_name[db_gr]}/benchmark_JAXalpha_with_ColabFold_feature/ranked_1_{pdb_id}_benchmark_JAXalpha_with_ColabFold_feature.pdb"
-correct_path = f"/content/jaxalpha/multi/{pdb_id}/{pdb_id}_predicted_AF.pdb"
-pkl_path = f"/content/jaxalpha/multi/{group_name}/benchmark_JAXalpha_with_ColabFold_feature/result_model_1_pred_0_{pdb_id}_benchmark_JAXalpha_with_ColabFold_feature.pkl"
+!zip -r db3_aligned_PDB_compare_with_ColabFold_feature_ranked_1.zip /content/PLDDT /content/SS_similarity_ranked_1 /content/batch_visualize_structures_simple_ranked_1 /content/distance_matrices_ranked_1 /content/db3_aligned_PDB_compare_with_ColabFold_feature_ranked_1.txt
