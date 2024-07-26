@@ -7,3 +7,4 @@ multi/4XGT/JF_colabfold/feature.pkl filter=lfs diff=lfs merge=lfs -text
 multi/4U4J/feature.pkl filter=lfs diff=lfs merge=lfs -text
 multi/7KVE/feature.pkl filter=lfs diff=lfs merge=lfs -text
 multi/7KVE/JF_colabfold/feature.pkl filter=lfs diff=lfs merge=lfs -text
+
