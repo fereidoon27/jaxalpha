@@ -4,3 +4,4 @@ multi/5DZR/feature.pkl filter=lfs diff=lfs merge=lfs -text
 multi/5DZR/JF_colabfold/feature.pkl filter=lfs diff=lfs merge=lfs -text
 multi/4XGT/feature.pkl filter=lfs diff=lfs merge=lfs -text
 multi/4XGT/JF_colabfold/feature.pkl filter=lfs diff=lfs merge=lfs -text
+multi/4U4J/feature.pkl filter=lfs diff=lfs merge=lfs -text
