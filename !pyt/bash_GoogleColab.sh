@@ -146,7 +146,26 @@ list_of_target = [
 
 
 
-#%%capture
-!zip -r db3_aligned_PDB_compare_with_ColabFold_feature_ranked_0.zip /content/PLDDT /content/SS_similarity /content/batch_visualize_structures_simple /content/distance_matrices /content/db3_aligned_PDB_compare_with_ColabFold_feature.txt
+/content/drive/MyDrive/jaxalpha
 
-!zip -r db3_aligned_PDB_compare_with_ColabFold_feature_ranked_1.zip /content/PLDDT /content/SS_similarity_ranked_1 /content/batch_visualize_structures_simple_ranked_1 /content/distance_matrices_ranked_1 /content/db3_aligned_PDB_compare_with_ColabFold_feature_ranked_1.txt
+
+
+
+
+
+
+
+%cd /content/jaxalpha
+!git fetch origin
+!git merge origin/main --no-edit
+
+
+
+
+
+
+
+
+
+
+
