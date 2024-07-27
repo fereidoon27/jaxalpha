@@ -148,9 +148,10 @@ list_of_target = [
 
 /content/drive/MyDrive/jaxalpha
 
+JAXalpha
+prediction_with_ColabFold_feature
 
-
-
+manually Add ranked_0.pdb, ranked_1.pdb, timings.json, and 1PNZ_single_JAXalpha_with_ColabFold_feature.txt to 1PNZ folder
 
 
 
