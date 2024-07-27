@@ -1,0 +1,2 @@
+execution_time_Run the model1CWY, 510.50789189338684
+execution_time_from_start_running_the_code_to_end, 548.9036588668823

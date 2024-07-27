@@ -1,0 +1,2 @@
+execution_time_Run the model1PNZ, 810.5079922676086
+execution_time_from_start_running_the_code_to_end, 846.2180004119873
