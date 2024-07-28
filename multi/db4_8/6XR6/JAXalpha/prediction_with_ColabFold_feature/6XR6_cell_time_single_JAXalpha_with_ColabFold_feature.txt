@@ -1,0 +1,2 @@
+execution_time_6XR6_single_JAXalpha_with_ColabFold_feature, 2182.647862672806
+execution_time_Start_running_the_code, 2183.4334897994995
