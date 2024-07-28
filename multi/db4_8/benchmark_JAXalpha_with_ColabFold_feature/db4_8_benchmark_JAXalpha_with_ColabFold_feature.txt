@@ -1,0 +1,5 @@
+execution_time_sort_by_sequence_lenght, 0.004044532775878906
+execution_time_db4_8_benchmark_JAXalpha_with_ColabFold_feature, 9.131099700927734
+execution_time_Start_running_the_code, 18.453808307647705
+execution_time_db4_8_benchmark_JAXalpha_with_ColabFold_feature, 3422.8753514289856
+execution_time_Start_running_the_code, 3490.4985966682434
