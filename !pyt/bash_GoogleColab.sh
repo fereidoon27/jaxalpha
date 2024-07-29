@@ -146,7 +146,12 @@ list_of_target = [
 
 
 
+sorted_time_cell_JF_AF_path_list:
+['/content/jaxalpha/multi/6XR6/6XR6_time_cell_JF_AlphaFold.txt', '/content/jaxalpha/multi/8D27/8D27_time_cell_JF_AlphaFold.txt', '/content/jaxalpha/multi/1UH7/1UH7_time_cell_JF_AlphaFold.txt', '/content/jaxalpha/multi/3JYL/3JYL_time_cell_JF_AlphaFold.txt', '/content/jaxalpha/multi/1CWY/1CWY_time_cell_JF_AlphaFold.txt', '/content/jaxalpha/multi/1FP9/1FP9_time_cell_JF_AlphaFold.txt', '/content/jaxalpha/multi/1PNZ/1PNZ_time_cell_JF_AlphaFold.txt', '/content/jaxalpha/multi/5JTA/5JTA_time_cell_JF_AlphaFold.txt', '/content/jaxalpha/multi/5DZR/5DZR_time_cell_JF_AlphaFold.txt', '/content/jaxalpha/multi/4XGT/4XGT_time_cell_JF_AlphaFold.txt']
 
+sorted_time_cell_JF_CF_path_list:
+['/content/jaxalpha/multi/6XR6/JF_colabfold/6XR6_time_cell_JF_colabfold.txt', '/content/jaxalpha/multi/8D27/JF_colabfold/8D27_time_cell_JF_colabfold.txt', '/content/jaxalpha/multi/1UH7/JF_colabfold/1UH7_time_cell_JF_colabfold.txt', '/content/jaxalpha/multi/3JYL/JF_colabfold/3JYL_time_cell_JF_colabfold.txt', '/content/jaxalpha/multi/1CWY/JF_colabfold/1CWY_time_cell_JF_colabfold.txt', '/content/jaxalpha/multi/1FP9/JF_colabfold/1FP9_time_cell_JF_colabfold.txt', '/content/jaxalpha/multi/1PNZ/JF_colabfold/1PNZ_time_cell_JF_colabfold.txt', '/content/jaxalpha/multi/5JTA/JF_colabfold/5JTA_time_cell_JF_colabfold.txt', '/content/jaxalpha/multi/5DZR/JF_colabfold/5DZR_time_cell_JF_colabfold.txt', '/content/jaxalpha/multi/4XGT/JF_colabfold/4XGT_time_cell_JF_colabfold.txt']
+claud
 
 
 
