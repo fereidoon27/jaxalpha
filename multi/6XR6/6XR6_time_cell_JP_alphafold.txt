@@ -1,0 +1,2 @@
+execution_time_Run the model6XR6, 319.62635231018066
+execution_time_from_start_running_the_code_to_end, 348.2400097846985
